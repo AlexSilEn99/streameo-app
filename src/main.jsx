@@ -4,7 +4,7 @@ import App from './App.jsx'
 import Header from './layout-components/header/Header.jsx'
 import Footer from './layout-components/footer/Footer.jsx'
 import Background from './layout-components/background/Background.jsx'
-import './Index.css'
+import './index.css'
 
 
 ReactDOM.createRoot(document.getElementById('header')).render(

@@ -1,6 +1,6 @@
 import logo from './assets/logo.svg'
 import './App.css'
-import './Index.css'
+import './index.css'
 
 function App() {
     return (
